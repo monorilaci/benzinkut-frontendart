@@ -1,0 +1,6 @@
+c:\users\monorilaci\documents\visual studio 2015\Projects\benzinkut-frontendart\benzinkut-frontendart\bin\Debug\benzinkut-frontendart.exe.config
+C:\Users\monorilaci\documents\visual studio 2015\Projects\benzinkut-frontendart\benzinkut-frontendart\bin\Debug\benzinkut-frontendart.exe
+C:\Users\monorilaci\documents\visual studio 2015\Projects\benzinkut-frontendart\benzinkut-frontendart\bin\Debug\benzinkut-frontendart.pdb
+C:\Users\monorilaci\documents\visual studio 2015\Projects\benzinkut-frontendart\benzinkut-frontendart\obj\Debug\benzinkut-frontendart.csprojResolveAssemblyReference.cache
+C:\Users\monorilaci\documents\visual studio 2015\Projects\benzinkut-frontendart\benzinkut-frontendart\obj\Debug\benzinkut-frontendart.exe
+C:\Users\monorilaci\documents\visual studio 2015\Projects\benzinkut-frontendart\benzinkut-frontendart\obj\Debug\benzinkut-frontendart.pdb
